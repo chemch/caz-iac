@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../caz-conf"
+		},
+		{
+			"path": "../caz-intel-svc"
+		},
+		{
+			"path": "../caz-alerting-svc"
+		},
+		{
+			"path": "../caz-detection-svc"
+		}
+	],
+	"settings": {}
+}
